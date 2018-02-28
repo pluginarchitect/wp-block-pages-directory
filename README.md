@@ -1,0 +1,1 @@
+# wp-block-pages-directory
